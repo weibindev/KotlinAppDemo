@@ -1,7 +1,7 @@
 # KotlinAppDemo
 用Kotlin编写的练习demo,实现简易看黄历的功能
 ## demo演示
-<img src="https://im4.ezgif.com/tmp/ezgif-4-31201a3910.gif" width="30%" />
+<img src="https://upload-images.jianshu.io/upload_images/8518082-af1410185a15a10a.gif" width="30%" />
 
 ## demo中用到的开源技术
 
